@@ -84,7 +84,6 @@ const AddTodos = () => {
             </Button>
           </Col>
         </Row>
-        
       </Form>
     </Card>
   );
